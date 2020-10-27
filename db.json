@@ -1,4 +1,5 @@
-[
+{
+	"products": [
 	{
 		"slug": "laptops/yoga/yoga-2-in-1-series/Lenovo-Yoga-C740-15/p/88YGC701293",
 		"title": "جهاز <span dir=\"ltr\">Yoga C940 (14)</span>",
@@ -631,3 +632,4 @@
 		"services": null		
 	}
 ]
+}

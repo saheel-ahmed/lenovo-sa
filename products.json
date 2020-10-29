@@ -1,0 +1,1134 @@
+[
+{
+        "id": "Lenovo-Yoga-C940-14IIL",
+        "slug": "laptops/yoga/yoga-2-in-1-series/Lenovo-Yoga-C940-14IIL/p/88YGC901221",
+        "title": "جهاز <span dir=\"ltr\">Yoga C940 (14)</span>",
+        "subTitle": "الأداء الذكي، وتعددية الاستخدام أثناء التنقل",
+        "category": "Laptops",
+        "subCategory": "Yoga",
+        "tags": [{ "tag": "home" }],
+        "sectionHero": {
+            "description": "تم تصميم كل مكوِّن من مكونات هذا الجهاز القوي الذي يبلغ مقاسه 14 بوصة والذي يتميز بإمكانات جهازين في جهاز واحد مع وضع تجربتك في الاعتبار. فهو مصنوع من الألومنيوم الفاخر، ويتميز بحواف رفيعة، بالإضافة إلى معالجة Intel® Core™ من الجيل العاشر بالإضافة ميزات ترفيهية رائعة. جهاز Yoga C940\": هو الكمبيوتر المحمول عالي الأداء الذي يجسد الحرفية ذات المستوى العالمي والتصميم الراقي.",
+            "bgUrl": "https://static.lenovo.com/ww/img/backgrounds/hero/lenovo-brand-blue-hero-bg.jpg",
+            "productPicture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c940-hero-14-1126.png?context=bWFzdGVyfHJvb3R8Mjg1NDA2fGltYWdlL3BuZ3xoYzYvaDcyLzEwNjczMTkzNjgwOTI2LnBuZ3w2NzMyYjk1YjQzYzM0ZWY4OWZmMThmMjI3NDE0NDhhZjMzODJkODEzOWZmNjZiYzc2NDhiZTA0ZTQwNjQ3NDA1",
+            "windowsPicture": null
+        },
+        "carouselProduct": [
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c940-hero-14-1126.png?context=bWFzdGVyfHJvb3R8Mjg1NDA2fGltYWdlL3BuZ3xoYzYvaDcyLzEwNjczMTkzNjgwOTI2LnBuZ3w2NzMyYjk1YjQzYzM0ZWY4OWZmMThmMjI3NDE0NDhhZjMzODJkODEzOWZmNjZiYzc2NDhiZTA0ZTQwNjQ3NDA1" }
+        ],
+        "features": null,
+        "techSpecs": {
+            "title": "المواصفات الفنية",
+            "table": [{
+                    "key": "المعالج",
+                    "value": {
+                        "content": "يصل إلى الجيل العاشر من معالجات Intel® Core™ i7",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "نظام التشغيل",
+                    "value": {
+                        "content": "Windows 10 Home",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الشاشة",
+                    "value": {
+                        "content": "",
+                        "ul": [
+                            { "li": "شاشة 14 بوصة بدقة UHD (3840 × 2160) ومتوافقة مع معايير VESA ومزودة بتقنية DisplayHDR™ 400، 500 شمعة لكل متر مربع" },
+                            { "li": "14 بوصة بدقة FHD (1920 × 1080) IPS مع Dolby Vision™، 400 شمعة لكل متر مربع" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الذاكرة",
+                    "value": {
+                        "content": "LPDDR4X تصل إلى 16 جيجا بايت",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "التخزين",
+                    "value": {
+                        "content": "يصل إلى 1 تيرابايت PCIe SSD",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "بطاقة الرسومات",
+                    "value": {
+                        "content": "Intel Iris® Plus",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "البطارية",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "تصل إلى 10.5 ساعات* (UHD)" },
+                            { "li": "تصل إلى 18 ساعة* (FHD)" },
+                            { "li": "الشحن السريع**" }
+                        ],
+                        "notes": [
+                            { "note": "* بناءً على الاختبار باستخدام MobileMark 2014. يختلف عمر البطارية بشكل كبير حسب الإعدادات، والاستخدام، وعوامل أخرى." },
+                            { "note": "** اشحن لمدة ساعة في وضع الاستعداد أو أثناء إيقاف التشغيل، لتشحن بذلك البطارية إلى 80% وذلك بناءً على نتائج الاختبار باستخدام الاختبار المعياري لقياس عمر البطارية MobileMark 2014 ver. 1.5. يُرجى الاطلاع على <a href='https://bapco.com/products/mobilemark-2014/' target='_blank'>https://bapco.com/products/mobilemark-2014/</a> للحصول على تفاصيل إضافية حول معيار الاختبار." }
+                        ]
+                    }
+                },
+                {
+                    "key": "إمكانية الاتصال",
+                    "value": {
+                        "content": "تصل إلى 2×2 AX / WiFi 6 (اختياري، سيتواجد قريبًا في بلدان محددة)",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الصوت",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "مكبر صوت شريطي دوَّار مع نظام سماعات بتقنية Dolby Atmos®" },
+                            { "li": "2 × ميكروفون بعيد المجال" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الوزن",
+                    "value": {
+                        "content": "يبدأ من 1.35 كجم/2.97 رطل",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الأبعاد (الارتفاع × العرض × العمق)",
+                    "value": {
+                        "content": "320.3 مم × 215.6 مم × 14.5-15.7 مم / 12.61 بوصة × 8.54 بوصة × 0.57-0.61 بوصة",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "لوحة المفاتيح",
+                    "value": {
+                        "content": "الإضاءة الخلفية",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "المنافذ/الفتحات",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "منفذا USB-C (Thunderbolt™ 3، PD، DP، USB 3.1 من الجيل الثاني)" },
+                            { "li": "USB-A (الجيل الثاني)" },
+                            { "li": "منفذ كومبو لسماعة الرأس/الميكروفون" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "اللون",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "رمادي حديدي" },
+                            { "li": "ميكا" }
+                        ],
+                        "notes": null
+                    }
+                }
+            ],
+            "notes": [
+                { "note": "* قد تختلف المواصفات حسب المنطقة" }
+            ],
+            "ports": {
+                "title": "المنافذ/الفتحات",
+                "picture": "https://static.lenovo.com/ww/img/subseries/redesign/2019/yoga/c940/ports/lenovo-yoga-c940-ports.jpg",
+                "points": [
+                    { "point": "1. منفذ USB 3.1" },
+                    { "point": "2. منفذا USB-C (Thunderbolt™، PD، DP، USB 3.1 (الجيل الثاني) كامل الوظائف)" },
+                    { "point": "3. منفذ كومبو لسماعة الرأس / الميكروفون" },
+                    { "point": "4. زر الطاقة" }
+                ]
+            }
+        },
+        "services": null
+    },
+    {
+        "id": "Lenovo-Yoga-C740-15",
+        "slug": "laptops/yoga/yoga-2-in-1-series/Lenovo-Yoga-C740-15/p/88YGC701293",
+        "title": "جهاز <span dir=\"ltr\">Yoga C740 (15)</span>",
+        "subTitle": "قوة أنيقة",
+        "category": "Laptops",
+        "subCategory": "Yoga",
+        "tags": [{ "tag": "home" }],
+        "sectionHero": {
+            "description": "يجمع جهاز Yoga C740 (15) الجديد بين التصميم الأنيق وعمر البطارية الذي يدوم طويلاً والمعالجة عالية السرعة، مما يجعله يشق طريقه ليواكب معالجات Intel® Core ™ من الجيل العاشر والتي تكيّف أداء الكمبيوتر المحمول وفقًا لاحتياجاتك. واستكمالاً لتعددية الاستخدامات التي تقدِّمها أجهزة Yoga الشهيرة والمتمثلة في إمكانات جهازين في جهاز واحد، يتميز جهاز C740 أيضًا بشاشة تعمل باللمس بتقنية HDR، ونظام مكبر صوت بتقنية Dolby Atmos™، وغالق خصوصية لكاميرا الويب للترفيه الآمن والمتنقل",
+            "bgUrl": "https://static.lenovo.com/ww/img/backgrounds/hero/lenovo-brand-blue-hero-bg.jpg",
+            "productPicture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-hero.png?context=bWFzdGVyfHJvb3R8Nzg2MTR8aW1hZ2UvcG5nfGhmNi9oYzYvMTA1MzY1MTQ5NDUwNTQucG5nfGY2MTFmODg4NGEzZWU0Y2NkODkxZjk3YmNkMjBiNGM4YTRkMjNkODA1MWUzMjQ3NmUxNjE0NTIxNWJiNWEwNWU",
+            "windowsPicture": null
+        },
+        "carouselProduct": [
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-1.jpg?context=bWFzdGVyfHJvb3R8MTcxMjQ5fGltYWdlL2pwZ3xoMTQvaGRlLzEwNTM2NTE2OTQzOTAyLmpwZ3w4YjYyODA3ODIwZDQzNzY0M2U3YTM1OWY5MDYyZWMyMmVmODM2NWJiMDczZjc4MTk0NWJiZDkxNWYwN2UyMDBi" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-2.jpg?context=bWFzdGVyfHJvb3R8MjQ4NDExfGltYWdlL2pwZ3xoMjIvaGFiLzEwNTM2NTE3MDA5NDM4LmpwZ3xlMjM5ZTFlNGJkN2FmM2RlZDg1MTk2YjEyMDRhOGZhY2Y3NjE3MWIwNTEzYWUwN2JjNDA1MjIyZDA4NGRmMGJh" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-3.jpg?context=bWFzdGVyfHJvb3R8ODUxMTZ8aW1hZ2UvanBnfGhmYi9oN2YvMTA1MzY1MTcwNzQ5NzQuanBnfGI4MmQ5NmRkMjM0ZjBhNjVlZWVkOWVlMTY0YWRhMDZjOTkzYTY2Nzg5MjYzYmRiZTBhY2Q2NGI5OWMyOWNkNWU" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-4.jpg?context=bWFzdGVyfHJvb3R8MTA2MDAzfGltYWdlL2pwZ3xoZDYvaGYzLzEwNTM2NTE3MTQwNTEwLmpwZ3xmN2YxZGE5OTg5NjRlMGI5MDYxYmEwZDIxYzJkZjdiZDYwOTQ3YzE4ZjBkZmVkMGUzM2JkNGM2MDAzNjJkN2Zm" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-5.jpg?context=bWFzdGVyfHJvb3R8MTk5MDg2fGltYWdlL2pwZ3xoNDQvaGVkLzEwNTM2NTE3MjA2MDQ2LmpwZ3xmMDcwOGZiOTQ2ODUwMjYwNGY5MDA0N2MyMjY5NzhlYzliODNmYjNiNWI4YjI1ZmNkZjVlZDUzMDliZTYyMjRm" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-6.jpg?context=bWFzdGVyfHJvb3R8NzYxMzZ8aW1hZ2UvanBnfGgxZC9oYzIvMTA1MzY1MTcyNzE1ODIuanBnfGZlZWI4ZWQ4Y2VhMGJlOWJiYWY3OTMyYmVjODYzZTZkM2ZlMjU0N2Y5MTg5ZTk2NGZiMWMxNjNmMjBjN2NlZTQ" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-7.jpg?context=bWFzdGVyfHJvb3R8MzA1ODd8aW1hZ2UvanBnfGg4Yy9oNWIvMTA1MzY1MTczMzcxMTguanBnfDU3N2E1ODAzZDgxYTg0M2FlZTYwOThiMzYxZWZiYTQ0MzQ3MmYyMzQyNzA3Y2ZiNGM0M2RlZjZjMGQzODc1Nzc" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-8.jpg?context=bWFzdGVyfHJvb3R8Mzg0MTY5fGltYWdlL2pwZ3xoZDQvaDIyLzEwNTM2NTE3NDAyNjU0LmpwZ3xmNDExN2EwN2E3YTRjZTU1YjgxM2M2OTQwOGRkZDA1Zjk4N2RiMTM4ZDRhZWEwNjVjNGZkODE5NDZjZTU1ZjVj" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-gallery-9.jpg?context=bWFzdGVyfHJvb3R8MTU2NzU3fGltYWdlL2pwZ3xoMzAvaDBmLzEwNTM2NTE3NDY4MTkwLmpwZ3wwNTNlNzk0OTdkYjNjYTNiN2ZiM2I4YTJhNmQwZDU5NDg3ZTM2M2NiMTgwNGI2ZDU1ZjUyMzkyNjgzYjg2Nzhi" }
+        ],
+        "features": {
+            "title": "المزايا",
+            "content": [{
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-feature-1.jpg?context=bWFzdGVyfHJvb3R8Mzc5MjU3fGltYWdlL2pwZWd8aDA4L2g5ZS8xMDUzNjUxNTMzODI3MC5qcGd8MTYxZTI1ZmJiZjE5ODg1ZTM2Y2Y0ZmZjMjdmNDRiOTFlODhlOTkwNWRkYzMwZjhhOTRhOGQ1MTI5M2UzZTBjNQ&w=1920",
+                    "heading": "اعمل بمزيد من الذكاء",
+                    "description": "تجمع معالجات Intel® Core™ من الجيل العاشر الخاصة بجهاز Yoga C740 بين الأداء الشاق وقابلية النقل خفيفة الوزن، مما يتيح عمرًا أطول للبطارية فضلاً عن إمكانية الاتصال عالية السرعة والأداء متعدد المهام المتميز بالاستجابة الفائقة وكل ذلك في حزمة أنيقة.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-feature-2.jpg?context=bWFzdGVyfHJvb3R8MzQ5MDk1fGltYWdlL2pwZWd8aDQxL2g2Ny8xMDUzNjUxNTUwMjExMC5qcGd8OTA2ZDFhZmE4NDBhNjNlODlmYzQ1YzRjODIzMjYzZjY5ZjYwNjI2ZjgzY2NiZjE4OTQxOTIwZDJjZWI4M2MxNg&w=1920",
+                    "heading": "استمتع بالميزات التي ستغمرك",
+                    "description": "يُعد جهاز Yoga C740 (15) الرفيق المثالي لبث مقاطع الفيديو المفضلة لديك أو ممارسة الألعاب وذلك بفضل التجربة الصوتية والمرئية المذهلة التي يمتاز بها. كما يوفر هذا الكمبيوتر المحمول مليارات الألوان لشاشتك وذلك بفضل شاشته عريضة الزاوية FHD HDR والتي يبلغ مقاسها 15.6 بوصة مع سطوع يصل إلى 500 شمعة لكل متر مربع. وتماشيًا مع الإمكانات البصرية المميزة، يُنشئ نظام مكبر الصوت Dolby Atmos™ الخاص بجهاز C740 تجربة صوتية يتدفق فيها الصوت فوقك ومن حولك.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-feature-3.jpg?context=bWFzdGVyfHJvb3R8Mjk0MDk3fGltYWdlL2pwZWd8aDZkL2g4Zi8xMDUzNjUxNTk5MzYzMC5qcGd8YTVlMzI0ZDI1Y2QwNjMxZDhmZjlkOWI2ZjdlODY5NWQ2ZjY4OWZlYjE0ODYzNDNjOWIyOGRjYmRmM2M0MTY2OQ&w=1920",
+                    "heading": "تعددية استخدامات تتسم بالأناقة",
+                    "description": "يتميز هذا الجهاز القابل للتحويل والمتميز بإمكانات جهازين في جهاز واحد بألمونيوم فاخر مصقول بالرمل، حيث يجسد الاهتمام بأدق التفاصيل المتمثلة في: لوحة مفاتيح متطابقة الألوان، ولوحة مفاتيح رقمية، وحواف مستديرة بمهارة من أجل إمساك مريح، وانتقالات أكثر سلاسة عند الانتقال من وضع الكمبيوتر المحمول إلى الكمبيوتر اللوحي والعكس. لذا تمتعوا بالعمل واللعب بأسلوب أنيق.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-feature-6.jpg?context=bWFzdGVyfHJvb3R8MzAxMDE4fGltYWdlL2pwZWd8aDgyL2g2YS8xMDUzNjUxNjY0ODk5MC5qcGd8ODk3NDIwZTA5OWQ5ZDBlOTIzZTcwMGFlYjcxYmVjMDY2ZDc5NmYxZDA1ZDNmYWQ3ZWI0OTM2MDcwNzgwNGY2Ng&w=1920",
+                    "heading": "تعددية استخدامات تتسم بالأناقة",
+                    "description": "يتعهد جهاز Yoga بحماية خصوصيتكم. لذا يمكنكم تسجيل الدخول ببصمة إصبعك أو تحريك غالق الخصوصية TrueBlock الخاص بكاميرا جهاز C740 لإغلاقها من أجل راحة البال الحقيقية عندما لا تستخدم كاميرا الويب.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-feature-5.jpg?context=bWFzdGVyfHJvb3R8Mzc4NTQ2fGltYWdlL2pwZWd8aDI1L2gzNC8xMDU0MjIzODU5NzE1MC5qcGd8ZmQxZjhiMjYzOGQ4ZTczODMwNTdiMjg4ZTljOGE0ZjM3OTNkM2IzNTFmMWMwZWIwYzNhNjQ3OWZhYTkwYzdlYQ&w=1920",
+                    "heading": "الاتصالات الأسرع",
+                    "description": "يمكنك البث بشكل أكثر سلاسة والاتصال بأي عدد تريده من الأجهزة الذكية في منزلك. أنجز عملك في مقهى مزدحم. وفي أي من الحالتين، فقد تم تجهيز هذا الكمبيوتر المحمول للتعامل مع الشبكات المزدحمة بفضل اتصال WiFi 6 * الأسرع من أي وقت مضى. كما أن عمر البطارية الذي يصل إلى 15 ساعة **، يتيح لك ترك مصدر الإمداد بالطاقة في المنزل - أو إحضاره معك للحصول على دفعة إضافية، حيث يمكن أن تمنحك ساعة واحدة عند التوصيل بالكهرباء إلى ما يصل إلى 80% من عمر البطارية، وذلك بفضل تقنية الشحن السريع.†",
+                    "notes": [
+                        { "note": "*متوقع بنهاية عام 2019؛ يتطلب مودم WiFi-6." },
+                        { "note": "**بناءً على الاختبار باستخدام MobileMark 2014. يختلف عمر البطارية بشكل كبير حسب الإعدادات، والاستخدام، وعوامل أخرى." },
+                        { "note": "†\"بناءً على نتائج الاختبار باستخدام الاختبار المعياري لقياس عمر البطارية MobileMark 2014 ver. 1.5." }
+                    ]
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-feature-4.jpg?context=bWFzdGVyfHJvb3R8Mzc4NzM2fGltYWdlL2pwZWd8aDVlL2gyYS8xMDUzNjUxNjA5MTkzNC5qcGd8NzE4YTIyODg5ZmFjODZiMjljMjdiNTg1NzVhMzA4MmMwOWNhMjAzYmI5YzQxNjE5NDg4ZGMxZWRhZTIwNjg0Mg&w=1920",
+                    "heading": "\"مرحبًا Alexa، ارفع صوت المرح\"",
+                    "description": "لا تنهض، فـ Alexa* سيتولى الأمر. يمكنك إنشاء بعض الإضاءات المزاجية، وضبط التذكيرات، وطلب العشاء، وتشغيل قائمة التشغيل المفضلة لديك، والتعامل مع الآلاف من المهام الأخرى القابلة للتدريب بمجرد أمر صوتي. كما يمكنك الكتابة بشكل أقل والتحدث بشكل أكثر من مسافة تصل إلى 4 أمتار، وذلك بفضل الميكروفونات بعيدة المجال المزودة في جهاز Yoga C740. يمكنك تعلم المزيد من هنا.",
+                    "notes": [
+                        { "note": "*متوقع بنهاية عام 2019؛ يختلف التوفر حسب البلد." }
+                    ]
+                }
+            ],
+            "notes": null
+        },
+        "techSpecs": {
+            "title": "المواصفات الفنية",
+            "table": [{
+                    "key": "المعالج",
+                    "value": {
+                        "content": "يصل إلى الجيل العاشر من معالجات Intel® Core™ i7",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "نظام التشغيل",
+                    "value": {
+                        "content": "Windows 10 Home",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "بطاقة الرسومات",
+                    "value": {
+                        "content": "Intel مدمجة",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الذاكرة",
+                    "value": {
+                        "content": "تصل إلى 16 جيجابايت DDR4",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "التخزين",
+                    "value": {
+                        "content": "يصل إلى 1 تيرابايت PCIe SSD",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الشاشة",
+                    "value": {
+                        "content": "شاشة تعمل باللمس يصل مقاسها إلى 15.6 بوصة بدقة FHD وVESA400 HDR (1920 × 1080، 500 شمعة لكل متر مربع",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الصوت",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "نظام مكبر صوت بتقنية Dolby Atmos™" },
+                            { "li": "ميكروفونات بعيدة المجال" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "البطارية",
+                    "value": {
+                        "content": "15 ساعة بفضل الشحن السريع*",
+                        "ul": null,
+                        "notes": [{
+                            "note": "*الشحن السريع: اشحن لمدة ساعة في وضع الاستعداد أو أثناء إيقاف التشغيل، لتشحن بذلك البطارية إلى 80% وذلك بناءً على نتائج الاختبار باستخدام الاختبار المعياري لقياس عمر البطارية MobileMark 2014 ver. 1.5."
+                        }]
+                    }
+                },
+                {
+                    "key": "الأبعاد",
+                    "value": {
+                        "content": "يبدأ من 357.8 مم × 235.35 مم × 16.02 مم من الحافة الأمامية؛ من الحافة الخلفية 18.25 مم / 14 بوصة × 9.27 بوصة × .63 بوصة.",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الوزن",
+                    "value": {
+                        "content": "188 كجم / 4.2 رطل",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الألوان",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "رمادي حديدي" },
+                            { "li": "ميكا" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "إمكانية الاتصال",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "WiFi 6" },
+                            { "li": "Bluetooth® 5" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الأمان",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "قارئ بصمات الأصابع" },
+                            { "li": "غالق الخصوصية TrueBlock" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "المنافذ",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "منفذا USB-C 3.1 من الجيل الأول (توصيل طاقة، منفذ جهاز العرض)" },
+                            { "li": "منفذا USB-A 3.1 من الجيل الأول" },
+                            { "li": "منفذ كومبو لسماعة الرأس/ الميكروفون" }
+                        ],
+                        "notes": null
+                    }
+                }
+            ],
+            "notes": [
+                { "note": "*قد تختلف المواصفات حسب المنطقة." }
+            ],
+            "ports": {
+                "title": "المنافذ/الفتحات",
+                "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c740-15-ports.jpg?context=bWFzdGVyfHJvb3R8MTAzMjEyfGltYWdlL2pwZWd8aDZlL2hhZi8xMDU0MDEyMzgxNTk2Ni5qcGd8OTM0ZTYzNjQ3ZDBhOTg2YWExMTVjODVhYzZiM2E5ZDdlMzI0ZjQ0ZWZmZTA1ODAzOTJmYzc2MjhmMmRmYzMxMw;",
+                "points": [
+                    { "point": "1. منفذ USB 3.1" },
+                    { "point": "2. منفذا USB-C (Thunderbolt™، PD، DP، USB 3.1 (الجيل الثاني) كامل الوظائف)" },
+                    { "point": "3. زر الطاقة" },
+                    { "point": "4. منفذ USB-C 3.1 من الجيل الأول (توصيل طاقة / منفذ جهاز العرض)" },
+                    { "point": "5. منفذ USB-C 3.1 من الجيل الأول" },
+                    { "point": "6. منفذ كومبو لسماعة الرأس/الميكروفون" }
+                ]
+            }
+        },
+        "services": null
+    },
+    {
+        "id": "Lenovo-Yoga-C640",
+        "slug": "laptops/yoga/yoga-2-in-1-series/Yoga-C640/p/88YGC601300",
+        "title": "جهاز <span dir=\"ltr\">Yoga C640</span>",
+        "subTitle": "ذكي، وأنيق، وآمن بإمكانات جهازين في واحد",
+        "category": "Laptops",
+        "subCategory": "Yoga",
+        "tags": [{ "tag": "home" }],
+        "sectionHero": {
+            "description": "سواء كنت تستخدم جهاز Yoga C640 الذي يبلغ مقاسه 13 بوصة كجهاز كمبيوتر محمول أو كمبيوتر لوحي، فإنه يوفر أداء كمبيوتر فائق أثناء التنقل وذلك بفضل معالجات Intel® Core™ من الجيل العاشر وعمر البطارية الذي يصل إلى 22 ساعة. استخدم مساعدًا صوتيًا، وانغمس في عالم سمعي بصري سينمائي، واستمتع بذاكرة ومساحة تخزين أكبر من ذي قبل، ولا تنسَ أنك محمي بقارئ بصمات الأصابع وغالق الخصوصية المنزلق الجديد.",
+            "bgUrl": "https://static.lenovo.com/ww/img/backgrounds/hero/lenovo-brand-blue-hero-bg.jpg",
+            "productPicture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-hero.png?context=bWFzdGVyfHJvb3R8MjU0MDc0fGltYWdlL3BuZ3xoYzUvaDAwLzEwNTM2NDY4MjE3ODg2LnBuZ3w2MjQ5OWE2NmQwNGJiMTBlNzU1N2Y1ZGY5NTNiNGNlN2Q4YTE1MDBlMzViYTUzYjZkMjlkYmI5NThmMmVkZTA3",
+            "windowsPicture": null
+        },
+        "carouselProduct": [
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-01.jpg?context=bWFzdGVyfHJvb3R8MTM5MzIyfGltYWdlL2pwZ3xoMDIvaDc3LzEwNTM2NDY5MjY2NDYyLmpwZ3w0Y2M4ZWQ1YjM3NmZjODNhNjEwNTBjMGUxZTNkN2NlN2VjMjUwZjU5YTY2MmEzMzAwMWM3ZjFlMDQxYzc0Zjgy" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-02.jpg?context=bWFzdGVyfHJvb3R8MTM2Mzg1fGltYWdlL2pwZ3xoZTAvaDM0LzEwNTM2NDY5NDYzMDcwLmpwZ3xhODljMjQxZDAzNTg1OWQwMTcxMjc1ZDk0NWU2ZjAyN2U5ODE2Njk4ZWZlNWIzNjA1ZTVjOGU3NzdkNmUzNTNj" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-03.jpg?context=bWFzdGVyfHJvb3R8MTMxNjkwfGltYWdlL2pwZ3xoNTMvaDEyLzEwNTM2NDY5NTI4NjA2LmpwZ3wyZmE5YTVhNTdhNTQ3Y2ZhMmU3MGQ0NTVjZjgyMGFjM2VkOTRiN2EzMDEzMTRhYTA0OGY2YzdmNmJmOThjMTA4" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-04.jpg?context=bWFzdGVyfHJvb3R8MTA2OTg2fGltYWdlL2pwZ3xoNDUvaGY3LzEwNTM2NDY5Mzk3NTM0LmpwZ3wzN2I0NWYyZGY5ZTBiYmM0N2FhNWE3NGU1Y2UzYjg1YjM4YzA1MWY0ZWM2YWMwODYxOWI0ZmQ0YmIwN2M4YWMy" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-05.jpg?context=bWFzdGVyfHJvb3R8OTcxOTh8aW1hZ2UvanBnfGgxMy9oZjMvMTA1MzY0NjkzMzE5OTguanBnfDJhZjMxMDRjOWQ5ZmYxMDM4ZjljNGQ3ODE2Yjk0YTIyNTA0NmU3YTdhMWFkNTQ2N2E4NTkxZDcyNzI1ODU0OGE" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-06.jpg?context=bWFzdGVyfHJvb3R8NDYxMzh8aW1hZ2UvanBnfGg5OC9oYzYvMTA1MzY0Njk1OTQxNDIuanBnfGVjZTE3YWMyYWM3ODc0MTZmODg4YzRmZDhlMTYzM2I1M2JlOTNlZmFiN2IwZThjNWM2YTA3YjE5ZTNlZDBlZTQ" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-8.jpg?context=bWFzdGVyfHJvb3R8MTcyMTE2fGltYWdlL2pwZWd8aGI3L2hhZC8xMDUzNzgyODY3OTcxMC5qcGd8NGZjNjNiZTc5MDgxMjJhNjhhNjI4MGZlNTgyODM5Y2ExM2VhNWVhZWY5OWNhNmViN2M3OTUzZmNmZjE5NWY5NQ" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-9.jpg?context=bWFzdGVyfHJvb3R8ODU0MTR8aW1hZ2UvanBlZ3xoNjEvaGUyLzEwNTM3ODI4Nzc4MDE0LmpwZ3w2MjlkMTVlZDJhZTM1MDY2MzI3YzZhYjMwYzY0NzhhODBhYWYxZTg4NzJkOGQxM2I3MGVkNjM5YjZjYTI5ZTE1" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-10.jpg?context=bWFzdGVyfHJvb3R8MTMxMDU2fGltYWdlL2pwZWd8aDQ2L2g2OS8xMDUzNzgyODg3NjMxOC5qcGd8YjM3OThiNjQ1NjhhNGQ5NmQ4NTY4YzJhZDlhMjdjNWIzNzUyNDIzOWIyZWI0MTk2ODE5MTFmOTQ0OTNmMzdjZg" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-11.jpg?context=bWFzdGVyfHJvb3R8MjU0Nzc1fGltYWdlL2pwZWd8aDg1L2gwZC8xMDUzNzgyODk3NDYyMi5qcGd8Yzc2OWE0YzM3NWQ1ODg3M2U3YzQzMjQ3OTAyNzMzYmQ5ZDQ4MzY0ZjM0MTY1ZjRiMzJiZDNlMzQ0Y2RjOWE2OA" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-12.jpg?context=bWFzdGVyfHJvb3R8MjgwODE3fGltYWdlL2pwZWd8aDk0L2g3Mi8xMDUzNzgyOTA3MjkyNi5qcGd8ZjUwYmViNjA5YzE0MTRiZWRlMmE1ZjE4MWNjM2ExYWRkYjVlY2ZhYzcyMjUzYzAzYzA2Yjc5NThlZjU3OWVhZA" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-13.jpg?context=bWFzdGVyfHJvb3R8MzIzMTM3fGltYWdlL2pwZWd8aGYzL2g4Ny8xMDUzNzgzMzk4ODEyNi5qcGd8YzRhNGRmNjkwZDg4NGQ0ZjczMDNkOTIzMjJiNzI5NDcwZGMzMzI3NzFkMDZmZjVjYmM0MTE0ZmQ1OWNiODE1Mg" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-14.jpg?context=bWFzdGVyfHJvb3R8Mjk1NTE1fGltYWdlL2pwZWd8aDQ1L2hhMS8xMDUzNzgzNDE1MTk2Ni5qcGd8NWIyNmQyZTBhYzhhYWVlOWVkN2JmNmRiZDk1YWYyZWYyZjlmYmMyNTEzOTExOTUwNDVjYzM4M2Q0ZjA1NDdkMA" },
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-gallery-15.jpg?context=bWFzdGVyfHJvb3R8MzYwNzQ3fGltYWdlL2pwZWd8aDNmL2hkOC8xMDUzNzgzNDI1MDI3MC5qcGd8NjQ0Zjg0ZmZlNDc5NjAxZTgyMGYyZGI5M2NhMGQ4NDNhOTcxMmRhZWRiZTRhNDM5NWViOTg4Yzc3MjZmZTA3MA" }
+        ],
+        "features": {
+            "title": "المزايا",
+            "content": [{
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-feature-1.jpg?context=bWFzdGVyfHJvb3R8NDU2NjQ5fGltYWdlL2pwZWd8aGIzL2g5Zi8xMDUzNzgyNjg0NDcwMi5qcGd8ZDUwNTM0OGRmOGM1ZWNkMzRmNmVkYjZiZDNiNjEzM2Y1MzBiNmNlYmUzNzk1YzIyNzdjNjI5OTQ0NzFhMzczOA&w=1920",
+                    "heading": "أداء فعال أثناء التنقل",
+                    "description": "يمنحك جهاز Yoga C640 تجربة كمبيوتر سريعة الاستجابة بشكل لا يصدق وذلك بفضل دعمه بمعالجات Intel® Core™ من الجيل العاشر. حيث يتميز الجهاز بميزات أداء ذكية مدمجة تتوقع احتياجاتك، ويوفر تجربة أكثر سهولة ومخصصة بشكل أكبر.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": "اختر الاتصال المستمر",
+                    "description": "من خلال اتصال LTE الاختياري الموجود في أسواق محددة، يمكنك الوصول إلى الإنترنت أينما كنت حتى بدون إشارة WiFi. أو اختر Intel WiFi 6 المتميزة بزمن انتقال أقل بنسبة 75% من شبكة AC WiFi القياسية. سيجعلك الدفق الأكثر سلاسة والتصفح عديم التأخير تتصل بسرعة غير مسبوقة.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-feature-2.jpg?context=bWFzdGVyfHJvb3R8MjI4MTQyfGltYWdlL2pwZWd8aGM1L2gyYi8xMDUzNzgzODU0Mjg3OC5qcGd8MWI2YjMzNTk2Yzc4NGZiYmY4YjVmY2NmZTkyZDljZWZlMWI4ZjJkYjYxYmU3MTBhY2M2ZGM0NGExZDNkMjVhZA&w=1920",
+                    "heading": "انسَ شاحنك",
+                    "description": "يوفر جهاز Yoga C640 طاقة تصل إلى 22 ساعة*. اصطحبه معك إلى أي مكان، واترك الشاحن هنالك، وركِّز على ما يهم.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": "تعددية استخدامات تتسم بالأناقة",
+                    "description": "يتعهد جهاز Yoga بحماية خصوصيتكم. لذا يمكنكم تسجيل الدخول ببصمة إصبعك أو تحريك غالق الخصوصية TrueBlock الخاص بكاميرا جهاز C740 لإغلاقها من أجل راحة البال الحقيقية عندما لا تستخدم كاميرا الويب.",
+                    "notes": [{ "note": "*بناءً على الاختبار باستخدام MobileMark 2014. يختلف عمر البطارية بشكل كبير حسب الإعدادات، والاستخدام، وعوامل أخرى." }]
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-feature-3.jpg?context=bWFzdGVyfHJvb3R8MzcwNjIwfGltYWdlL2pwZWd8aDRiL2g5Ny8xMDUzNzgyNzc5NDk3NC5qcGd8YTYzYzE0MzhmODE0Y2Y4NmM3MDNmZjg0OTQyNzM1MGZmMGQ2NzcwYmY1M2ZmY2IyNmUzZGQwODBhOTJjMTIwOA&w=1920",
+                    "heading": "مرئيات وصوتيات نابضة بالحياة",
+                    "description": "يقدِّم جهاز Yoga C640 تجربة ترفيهية رائعة تتميز بألوان زاهية ووضوح نابض بالحياة بفضل شاشته التي يبلغ مقاسها 13.3 بوصة FHD والزاوية العريضة المزودة بحواف رفيعة من الجوانب الأربعة. فبفضل السطوع الذي يصل إلى 400 شمعة لكل متر مربع، سترى كل التفاصيل جنبًا إلى جنب مع الصوت الغني متعدد الطبقات لمكبرات الصوت الأمامية وتقنية Dolby Atmos™ عند الاستماع من خلال سماعات الرأس.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": "سجِّل الدخول بلمسة واحدة",
+                    "description": "بفضل قارئ بصمات الأصابع المدمج في جهاز Yoga C640، يمكنك نسيان كلمة مرورك. المسه وقم بتسجيل الدخول - يستغرق الأمر أقل من ثانيتين.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-feature-4.jpg?context=bWFzdGVyfHJvb3R8ODMzOTN8aW1hZ2UvanBlZ3xoMWQvaDBiLzEwNTM3ODI3ODYwNTEwLmpwZ3w5NDk3ZWRjY2EwZjZjOTk0OWNkZDUxMDJkZGJmMDI0MTk5NzdhNzY2YzgzNmM3MzAzZTVkN2NhYjVhY2E0NTFm&w=1920",
+                    "heading": "حافظ على خصوصيتك",
+                    "description": "يتعهد جهاز Lenovo بحماية خصوصيتكم. حرِّك غالق الخصوصية TrueBlock الخاص بكاميرا جهاز Yoga C640’s لإغلاقه من أجل راحة البال الحقيقية عندما لا تستخدم كاميرا الويب.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": "كل ما عليك فعله هو الطلب",
+                    "description": "لا تنهض؛ فإن استخدام Alexa* بسيط مثل طرح سؤال. احصل على التذكيرات واضبطها واطلب العشاء وشغل قائمة التشغيل المفضلة لديك والمزيد. تحدَّث بشكل أكثر واكتب بشكل أقل. يمكنك تعلم المزيد من هنا.",
+                    "notes": [{ "note": "*يختلف توفر Alexa باختلاف الأسواق، مع اختلاف تواريخ الإصدار." }]
+                }
+            ],
+            "notes": null
+        },
+        "techSpecs": {
+            "title": "المواصفات الفنية",
+            "table": [{
+                    "key": "المعالج",
+                    "value": {
+                        "content": "يصل إلى الجيل العاشر من معالجات Intel® Core™ i7",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "نظام التشغيل",
+                    "value": {
+                        "content": "Windows 10 Home",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الشاشة",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "شاشة تعمل باللمس IPS مقاس 13.3 بوصة بدقة FHD (1920 × 1080)، 400 شمعة لكل متر مربع" },
+                            { "li": "شاشة تعمل باللمس IPS مقاس 13.3 بوصة بدقة FHD (1920 × 1080)، 300 شمعة لكل متر مربع" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الذاكرة",
+                    "value": {
+                        "content": "تصل إلى 16 جيجابايت",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "البطارية",
+                    "value": {
+                        "content": "تصل إلى 18 ساعة*",
+                        "ul": null,
+                        "notes": [
+                            { "note": "* بناءً على الاختبار باستخدام MobileMark 2014. يختلف عمر البطارية بشكل كبير حسب الإعدادات، والاستخدام، وعوامل أخرى." }
+                        ]
+                    }
+                },
+                {
+                    "key": "التخزين",
+                    "value": {
+                        "content": "يصل إلى 512 جيجا بايت PCIe SSD",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "بطاقة الرسومات",
+                    "value": {
+                        "content": "رسومات Intel® HD Graphics 620 مدمجة",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الأمان",
+                    "value": {
+                        "content": "غالق الخصوصية TrueBlock",
+                        "ul": [
+                            { "li": "قارئ بصمات الأصابع Match-on-Chip" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الصوت",
+                    "value": {
+                        "content": "مكبرات صوت ستيريو مواجهة للمستخدم",
+                        "ul": [{ "li": "نظام سماعات رأس بتقنية Dolby Atmos™" },
+                            { "li": "ميكروفونات بعيدة المجال" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الكاميرا",
+                    "value": {
+                        "content": "720 بكسل",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الأبعاد (العرض × العمق × الارتفاع)",
+                    "value": {
+                        "content": "306.8 مم × 204.48 مم × 16.95 مم / 12.08 بوصة × 8.05 بوصة × 0.67 بوصة",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الوزن",
+                    "value": {
+                        "content": "يبدأ من 1.25 كجم / 2.76 رطل",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "اللون",
+                    "value": {
+                        "content": "رمادي حديدي",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "إمكانية الاتصال",
+                    "value": {
+                        "content": "2x2 AC WiFi",
+                        "ul": [
+                            { "li": "من المتوقع أن يتم تمكين خيار WiFi 6 بحلول نهاية عام 2019" },
+                            { "li": "Bluetooth® 5.0" },
+                            { "li": "شبكة WWAN الاختيارية: النطاق العريض العالمي المتنقل المتكامل 4G LTE-A (في أسواق محددة فقط)" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "المنافذ / الفتحات",
+                    "value": {
+                        "content": "منفذ USB-C (منفذ جهاز العرض، توصيل الطاقة)",
+                        "ul": [
+                            { "li": "منفذا USB-A 3.1 (الجيل الأول)" },
+                            { "li": "منفذ قارئ بطاقة microSIM (مع LTE اختياري فقط، عند الحاجة)" },
+                            { "li": "منفذ إدخال الطاقة" },
+                            { "li": "منفذ كومبو لسماعة الرأس/ الميكروفون" }
+                        ],
+                        "notes": null
+                    }
+                }
+            ],
+            "notes": [
+                { "note": "*قد تختلف المواصفات حسب المنطقة." }
+            ],
+            "ports": {
+                "title": "المنافذ/الفتحات",
+                "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c640-13-ports-1.jpg?context=bWFzdGVyfHJvb3R8MTE4MzA3fGltYWdlL2pwZ3xoMzkvaDBlLzEwNTM2NDY4NzQyMTc0LmpwZ3w2NWM4OTZjZDMyNzAwNzU1MWQxZTRhYjIzMzI4ZDQ2NjYzMDYzZDQ4MGNlYWVmOWQ3OGFiMDUwN2IxZGY1ZDdm",
+                "points": [
+                    { "point": "1. منفذ إدخال الطاقة" },
+                    { "point": "2. منفذ USB-A 3.1 (الجيل 1)" },
+                    { "point": "3. منفذ كومبو لسماعة الرأس/ الميكروفون" },
+                    { "point": "4. قارئ بطاقة MicroSIM (مع LTE اختياري فقط)" },
+                    { "point": "5. منفذ USB-C" },
+                    { "point": "6. منفذ USB-A 3.1 (الجيل الأول)" },
+                    { "point": "7. زر الطاقة" }
+                ]
+            }
+        },
+        "services": null
+    },
+    {
+        "id": "Lenovo-Yoga-C940-15IRH",
+        "slug": "laptops/yoga/yoga-2-in-1-series/Lenovo-Yoga-C940-15IRH/p/88YGC901298",
+        "title": "جهاز <span dir=\"ltr\">Yoga C940 (15)</span>",
+        "subTitle": "أداء يوسع نطاق قدراتك",
+        "category": "Laptops",
+        "subCategory": "Yoga",
+        "tags": [{ "tag": "home" }],
+        "sectionHero": {
+            "description": "تعرف على جهاز Yoga C940 الترفيهي القوي الذي يبلغ مقاسه 15.6 بوصة والمتميز بإمكانات جهازين في جهاز واحد والذي تم تصميمه مع وضع تجربتك في الاعتبار. تأتي لمسات التصميم الأنيقة مثل الحواف فائقة النحافة مع ميزات الوسائط المتعددة القوية والمعالجة السريعة جنبًا إلى جنب مع بطاقة الرسومات المنفصلة NVIDIA® من أجل دعم إبداعك. يجسد هذا الكمبيوتر المحمول عالي الأداء والمصنوع من الألومنيوم الفاخر البراعة الحِرفية العالمية والتصميم الراقي. ",
+            "bgUrl": "https://static.lenovo.com/ww/img/backgrounds/hero/lenovo-brand-blue-hero-bg.jpg",
+            "productPicture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c940-hero-15.png?context=bWFzdGVyfHJvb3R8MTczMjIzOHxpbWFnZS9wbmd8aGM1L2hiNS8xMDU0NzY4MjM0NDk5MC5wbmd8MDc5ZGFkMzBiYTk0NTgxYmUzNTdhYTZjYTViOTk1NmFhN2JlMmRlMmJjOTkwNTM4NjZjZDQ5Njc5N2Q2ZmY0YQ",
+            "windowsPicture": null
+        },
+        "carouselProduct": [
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c940-hero-15.png?context=bWFzdGVyfHJvb3R8MTczMjIzOHxpbWFnZS9wbmd8aGM1L2hiNS8xMDU0NzY4MjM0NDk5MC5wbmd8MDc5ZGFkMzBiYTk0NTgxYmUzNTdhYTZjYTViOTk1NmFhN2JlMmRlMmJjOTkwNTM4NjZjZDQ5Njc5N2Q2ZmY0YQ" }
+        ],
+        "features": {
+            "title": "المزايا",
+            "content": [{
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-4.jpg?context=bWFzdGVyfHJvb3R8MzExNDYzfGltYWdlL2pwZWd8aGRhL2hiNy8xMDc3NTczNjU0OTQwNi5qcGd8ZTE5MjcwOTFmOTc5NzBmNTU2ZThiMGNhYTVkNGEzMzk2MDY3MWUxNDM2NDAzMjI5ZDRlODhkZjg5NWEwNDE2Ng&w=1920",
+                    "heading": "أداء يشبه أجهزة سطح المكتب أثناء التنقل",
+                    "description": "تعمل معالجة Intel® Core ™ من الجيل التاسع على تشغيل جهاز Yoga C940 الذي يبلغ مقاسه 15.6 بوصة بأداء فائق الاستجابة وتحرير أسرع للفيديو والصور، مع تقنية توربو التي تصل إلى 5 جيجاهرتز، ومعالجات ثمانية النواة وضبط ديناميكي يضبط الأداء تلقائيًا وفقًا لاحتياجاتك.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-11.jpg?context=bWFzdGVyfHJvb3R8NDg1NzI4fGltYWdlL2pwZWd8aGJjL2hlNi8xMDY0OTU3MTUyNDYzOC5qcGd8NmU2MmUzODBlMGQ1NDUwMTA0YzE5ZDljMjZkZGM4MWVkY2I1YTNjYjNiZDAyM2Y4NmRjMmRmODJmYzU5ZmYwMw&w=1920",
+                    "heading": "مزيد من الإبداع مع وقت انتظار أقل",
+                    "description": "عزز إبداعك وإنتاجيتك باستخدام بطاقة الرسومات NVIDIA® GeForce® GTX1650. تعمل رسومات GeForce المخصصة على تسريع تطبيقاتك المفضلة وذلك للحصول على أداء أفضل وسرعة أكبر في تحرير الفيديو وتصميم الرسومات وتدفق المحتوى الترفيهي الذي تبلغ دقته 4K.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-5.jpg?context=bWFzdGVyfHJvb3R8NTEyMjgxfGltYWdlL2pwZWd8aDlmL2hmYS8xMDYxMjI5NzAzOTkwMi5qcGd8MWVmNDMwOGI3MzVmNDZkYzMwNzUwZGM5Y2RmYjUyODJjMmZlZjUzYjI3ZDc0YjBlZDRjMjMyYzdiNjE4MDllZQ&w=1920",
+                    "heading": "مرئيات نابضة بالحياة",
+                    "description": "يوفر جهاز Yoga C940 المميز بحواف رفيعة والذي يبلغ مقاسه 15.6 بوصة ألوانًا رائعة ووضوحًا رائعًا بفضل الشاشة التي تصل دقتها إلى 4k والمتوافقة مع معايير VESA والمزودة بتقنية DisplayHDR™ 400. وبفضل السطوع الذي يصل إلى 500 شمعة لكل متر مربع، يصبح السطوع أكبر بنسبة 50% من شاشات SDR القياسية. ستكون مرئياتك فائقة الوضوح، بفضل دقة الألوان المحسّنة والدقة العالية التب تعمل على تحسين حجم البكسل وعمق درجة اللون.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-7.jpg?context=bWFzdGVyfHJvb3R8MjE5NjU5fGltYWdlL2pwZWd8aGNjL2g3ZS8xMDYxMjI5NzQzMzExOC5qcGd8YTI0ZTU1OTI4NDJhOTM1ZWEyM2YzMTE5MjhjNjZkM2UzMjFiMWI0YzZjN2NkNzM0Zjg2NWU4Y2IxM2Y4MzA3Yw&w=1920",
+                    "heading": "صوت ثلاثي الأبعاد في كل وضع",
+                    "description": "يخفي المفصل القابل للتحويل في جهاز Yoga C940 نظام مكبر الصوت Dolby Atmos® القوي الذي يغمرك بصوته ثلاثي الأبعاد في كل وضع.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": null,
+                    "description": "سيبدو صوتك أكبر وأعمق وأكثر دقة وذلك بفضل مجموعتين من مكبرات الصوت التي تتميز بمضخمات صوت قوية ومكبرات صوت مخصصة عالية التردد ومخففات اهتزاز فريدة تقلل من الضوضاء غير المرغوب فيها.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-10.png?context=bWFzdGVyfHJvb3R8NjAyMTl8aW1hZ2UvcG5nfGhlOS9oN2UvMTA2NDc0NTg2NzY3NjYucG5nfDhlNjhkMGViNWYzMDhjYzMwY2MyMjE5Mzk1MDA1ZDY4MDY0N2FlYWQwOTczZWRhNmRjNWY5NzQzYWRiYmY5OGI&w=1920",
+                    "heading": "سجِّل الدخول بلمسة واحدة",
+                    "description": "صُمِّم جهاز Yoga C940 القابل للتحويل والمصنوع من الألومنيوم الفاخر والذي يبلغ مقاسه 15.6 بوصة ليكون أنيقًا بنفس القدر في كل وضع. فهو يجسد الحِرفية العالمية والتصميم الراقي.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": null,
+                    "description": "وبفضل عمر البطارية الذي يصل إلى 12 ساعة، سيكون لديك متسع من الوقت للتباهي بذلك. هل تحتاج إلى دفعة شحن إضافية؟ يمكن لساعة من التوصيل بالكهرباء أن تشحن بطارية الشحن السريع إلى 80%.*",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": null,
+                    "description": "هل تحتاج إلى عمر بطارية أطول؟ تحقق من طرازنا الذي يبلغ مقاسه 14 بوصة من هنا.",
+                    "notes": [{ "note": "*الشحن السريع: اشحن لمدة ساعة في وضع الاستعداد أو أثناء إيقاف التشغيل، لتشحن بذلك البطارية إلى 80% وذلك بناءً على نتائج الاختبار باستخدام الاختبار المعياري لقياس عمر البطارية MobileMark 2014 ver. 1.5. يُرجى الاطلاع على https://bapco.com/products/mobilemark-2014/ للحصول على تفاصيل إضافية حول معيار الاختبار." }]
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-2.jpg?context=bWFzdGVyfHJvb3R8Mzg4NDI0fGltYWdlL2pwZWd8aDQxL2hhMC8xMDYxMjI5NjU0ODM4Mi5qcGd8MDllMzVlMjRkNDI5OWUzNWMzYzZhZWQxNWRiZTE2YzhhOTAxMmZkMjNhMDBiZWVjNzBmZTA2MGRiNmE3ODk3MA&w=1920",
+                    "heading": "دع صوتك هو الذي يعمل عنك",
+                    "description": "لا تنهض، فقد تولينا تنفيذ الأمر نيابة عنك. يعتبر استخدام Alexa و Cortana بسيط مثل القيام بطرح سؤال. احصل على التذكيرات واضبطها واطلب العشاء وشغل قائمة التشغيل المفضلة لديك والمزيد. تحدَّث بشكل أكثر واكتب بشكل أقل. يمكنك تعلم المزيد من هنا.",
+                    "notes": [{ "note": "*من المتوقع أن يتم التمكين بحلول نهاية عام 2019، يختلف التوافر عبر البلدان." }]
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-6.jpg?context=bWFzdGVyfHJvb3R8MTg1NDMyfGltYWdlL2pwZWd8aGU5L2g3Yi8xMDYxMjI5NzI2OTI3OC5qcGd8YTc5ZWUyNGJhOTE2ZDlkMjBiYTJiYmU5ZWEyODAzMTMyZDBjZDQwZTg5ODlhMTE2MDEzNjlhMWYwMTQ4NDk4ZA&w=1920",
+                    "heading": "دوِّن أفكارك",
+                    "description": "يمكنك الآن تدوين أفكارك لحظة تجليها باستخدام قلم رقمي مُخزَّن بالجهاز. يتميز جهاز Yoga C940 بحجيرة لوضع القلم فيها داخل الهيكل، وذلك لضمان أنك لن تفقد أي فكرة مرة أخرى.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-8.jpg?context=bWFzdGVyfHJvb3R8MjkxODM2fGltYWdlL2pwZWd8aDAwL2gwOC8xMDYxMjI5NzUzMTQyMi5qcGd8MjA0YmQ4NzhjODk1MTAxNTk3ZWExNzUyNjI3MTg3NjgyMmFmY2VlMTBhYWM4MzM5MjEwNmQ4OTM2ZGMxMTUxYw&w=1920",
+                    "heading": "أنت تستحق الخصوصية",
+                    "description": "يتعهد جهاز Yoga بحماية خصوصيتكم. حرِّك غالق الخصوصية TrueBlock لإغلاقه من أجل راحة البال عندما لا تستخدم كاميرا الويب؛ أو سجِّل الدخول بإصبعك فقط، بفضل Windows Hello.",
+                    "notes": null
+                }
+            ],
+            "notes": [{ "note": "قد تختلف المواصفات حسب المنطقة." }]
+        },
+        "techSpecs": {
+            "title": "المواصفات الفنية",
+            "table": [{
+                    "key": "المعالج",
+                    "value": {
+                        "content": "يصل إلى الجيل التاسع من معالجات Intel® Core™ i9",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "نظام التشغيل",
+                    "value": {
+                        "content": "Windows 10 Home",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الشاشة",
+                    "value": {
+                        "content": null,
+                        "ul": [
+                            { "li": "شاشة 15.6 بوصة بدقة UHD (3840 × 2160) ومتوافقة مع معايير VESA ومزودة بتقنية DisplayHDR™ 400، 500 شمعة لكل متر مربع" },
+                            { "li": "شاشة 15.6 بوصة بدقة FHD وتقنية HDR (1920 × 1080)، 500 شمعة لكل متر مربع" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الذاكرة",
+                    "value": {
+                        "content": "تصل إلى 16 جيجابايت DDR4",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "التخزين",
+                    "value": {
+                        "content": "يصل إلى 2 تيرابايت PCIe SSD",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "بطاقة الرسومات",
+                    "value": {
+                        "content": "NVIDIA® GeForce® GTX1650",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "البطارية",
+                    "value": {
+                        "content": null,
+                        "ul": [{ "li": "تصل إلى 9 ساعات* (UHD)" },
+                            { "li": "تصل إلى 12 ساعة* (FHD)" },
+                            { "li": "الشحن السريع**" }
+                        ],
+                        "notes": [
+                            { "note": "* بناءً على الاختبار باستخدام MobileMark 2014. يختلف عمر البطارية بشكل كبير حسب الإعدادات، والاستخدام، وعوامل أخرى." },
+                            { "note": "** اشحن لمدة ساعة في وضع الاستعداد أو أثناء إيقاف التشغيل، لتشحن بذلك البطارية إلى 80% وذلك بناءً على نتائج الاختبار باستخدام الاختبار المعياري لقياس عمر البطارية MobileMark 2014 ver. 1.5. يُرجى الاطلاع على <a target='_blank' href='https://bapco.com/products/mobilemark-2014'>https://bapco.com/products/mobilemark-2014</a> للحصول على تفاصيل إضافية حول معيار الاختبار." }
+
+                        ]
+                    }
+                },
+                {
+                    "key": "إمكانية الاتصال",
+                    "value": {
+                        "content": "Intel® WiFi 6 (اختياري، قريبًا في بلدان محددة)",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الصوت",
+                    "value": {
+                        "content": null,
+                        "ul": [{ "li": "مكبر صوت شريطي دوَّار مع نظام سماعات Dolby Atmos®" },
+                            { "li": "2 × ميكروفون بعيد المجال ميكروفونات بعيدة المجال" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الوزن",
+                    "value": {
+                        "content": "يبدأ من 1.9 كجم / 4.18 أرطال",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الأبعاد (الارتفاع × العرض × العمق)",
+                    "value": {
+                        "content": "355.2 × 238.39 × 17.5-19.7 مم / 13.98 بوصة × 9.38 بوصة × 0.68-0.77 بوصة",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "لوحة المفاتيح",
+                    "value": {
+                        "content": null,
+                        "ul": [{ "li": "الإضاءة الخلفية" },
+                            { "li": "لوحة المفاتيح الرقمية" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "المنافذ/الفتحات",
+                    "value": {
+                        "content": null,
+                        "ul": [{ "li": "منفذا USB-C (TBT، PD، DP، USB 3.1 كامل الوظائف)" },
+                            { "li": "منفذ USB-A 3.1" },
+                            { "li": "منفذ كومبو لسماعة الرأس/ الميكروفون" }
+                        ],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "اللون",
+                    "value": {
+                        "content": "رمادي حديدي",
+                        "ul": null,
+                        "notes": null
+                    }
+                }
+
+            ],
+            "notes": [
+                { "note": "* قد تختلف المواصفات حسب المنطقة" }
+            ],
+            "ports": {
+                "title": "المنافذ/الفتحات",
+                "picture": "https://static.lenovo.com/ww/img/subseries/redesign/2019/yoga/c940/15/ports/lenovo-yoga-c940-ports-15.jpg",
+                "points": [
+                    { "point": "1. منفذ إدخال الطاقة" },
+                    { "point": "2. منفذا USB-C (TBT، PD، DP، USB 3.1 كامل الوظائف)" },
+                    { "point": "3. منفذ كومبو لسماعة الرأس/ الميكروفون" },
+                    { "point": "4. منفذ تخزين القلم الرقمي" },
+                    { "point": "5. منفذ USB-A 3.1" },
+                    { "point": "6. زر الطاقة" }
+                ]
+            }
+        },
+        "services": null
+    },
+	{
+        "id": "Lenovo-Yoga-S740-15IRH",
+        "slug": "laptops/yoga/yoga-slim-series/Lenovo-Yoga-S740-15IRH/p/88YGS701211",
+        "title": "جهاز <span dir=\"ltr\">Yoga C940 (15)</span>",
+        "subTitle": "اغتنم اليوم، وكل يوم",
+        "category": "Laptops",
+        "subCategory": "Yoga",	
+        "tags": [{ "tag": "home" }],
+        "sectionHero": {
+            "description": "يتيح لك جهاز Yoga S740 الإنشاء والمشاركة والمشاهدة أثناء التنقل. يمنحك هذا الجهاز طاقة حقيقية مع إمكانية تنقل أنيقة، بفضل معالجة Intel® Core™، وبطاقة الرسومات المنفصلة NVIDIA® GeForce® GTX، وعمر البطارية الذي يصل إلى 14 ساعة. يأتي هذا الكمبيوتر المحمول المعدني بالكامل أيضًا مزودًا بشاشة FHD HDR مذهلة مقاس 15.6 بوصة وصوت مذهل Dolby Atmos® ثلاثي الأبعاد.",
+            "bgUrl": "https://static.lenovo.com/ww/img/backgrounds/hero/lenovo-brand-blue-hero-bg.jpg",
+            "productPicture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-c940-hero-15.png?context=bWFzdGVyfHJvb3R8MTczMjIzOHxpbWFnZS9wbmd8aGM1L2hiNS8xMDU0NzY4MjM0NDk5MC5wbmd8MDc5ZGFkMzBiYTk0NTgxYmUzNTdhYTZjYTViOTk1NmFhN2JlMmRlMmJjOTkwNTM4NjZjZDQ5Njc5N2Q2ZmY0YQ",
+            "windowsPicture": null
+        },
+        "carouselProduct": [
+            { "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s740-15-01.jpg?context=bWFzdGVyfHJvb3R8MTE3MjM3fGltYWdlL2pwZ3xoYjcvaDZjLzEwNTM2NTAxMDUxNDIyLmpwZ3w1MWJhNTc2NWMwYzVjNDNkZGI3NTMzNTRjOTE1MjNiMjIwMTU2ZGJmODViNjJkOWQ4OGQ1OGI5Yzc5MmE5MDI0" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s740-15-02.jpg?context=bWFzdGVyfHJvb3R8MTIyMzUzfGltYWdlL2pwZ3xoYWIvaDIyLzEwNTM2NTAxMTgyNDk0LmpwZ3xiYmM4MzMzNWVjNjEzMmY0MzkwMzhmYTkyNDY2OWY2OTFiNmNhNWJjNjNhZWZhZGJkM2NmOGIwYTk0MjNkZDNm" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s740-15-03.jpg?context=bWFzdGVyfHJvb3R8MTg1MDM5fGltYWdlL2pwZWd8aDgwL2hiMi8xMDU4ODE1Njg4NzA3MC5qcGd8ZDYyY2FiMGI2MzJmODhiNjg3ZWU5YmI3MThmNWYyZDEyOGY1NjBhYWI2YjkyMzY0Njk0OTY2MWM3MTY1NjUxMg" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s740-15-04.jpg?context=bWFzdGVyfHJvb3R8NjMzMjN8aW1hZ2UvanBnfGg5Ny9oZmIvMTA1MzY1MDExMTY5NTguanBnfDc2MTU4OTMyOTMxZmVjZDQ0ODExNjlmMzY1NWZhYWUwNDM4ZDI0OGNlNmM0MWQ3MjllNjdiZmI0MjJlMjYxNDg" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s740-15-05.jpg?context=bWFzdGVyfHJvb3R8NDA3MDR8aW1hZ2UvanBlZ3xoMTQvaGE3LzEwNTg4MTU4MDAxMTgyLmpwZ3w5OTc5ZDhhMmQ2ZjZkOTQxMWYyNzA4YzdhNzQ3N2M3M2U0Y2VlMWM0NTk0YjkwYmI0N2VlODQ1ZTI0OGQyNDk3" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s740-15-06.jpg?context=bWFzdGVyfHJvb3R8NjE5MDZ8aW1hZ2UvanBlZ3xoYzgvaDU2LzEwNTg4MTU3NzM5MDM4LmpwZ3xhMDkxNmM3Y2M0OTU3Y2U3ZDA1OGVlYjc2NWI0MjhiYTdlOTc1ZjQ4NDU0ZmRlNDhiOGI5OWM0MTFlYTU5Nzk5" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-gallery-07.jpg?context=bWFzdGVyfHJvb3R8MTUxOTA4fGltYWdlL2pwZWd8aGE3L2g5ZS8xMDU0NDg0MzI5MjcwMi5qcGd8OTM0MmZiM2QwNzU5ZDVjY2Y4MmQwYmQxODA2ZTM5MjJlZTU4YmRhMDQ3YjFmYWI1MDk1ZDQxYzlkOGE1NjI2Nw" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-gallery-08.jpg?context=bWFzdGVyfHJvb3R8MjIxOTcyfGltYWdlL2pwZWd8aGQ1L2g1My8xMDU0NDg0NDI0Mjk3NC5qcGd8NDNkNjgzMzQwNWJmYTFiOTRkN2VmYjYzZWU2NDRlYjgzZGY4YzU0NjBiNTM0MGUyYWJjZTFlZDExMTQzOTM3ZA" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-gallery-09.jpg?context=bWFzdGVyfHJvb3R8MTcxNDE5fGltYWdlL2pwZWd8aDkxL2gzNS8xMDU0NDg0NDg2NTU2Ni5qcGd8N2EzMWM5MDlmODA5MTNkMGY1OTlkMGY1YzcxNWU0NjZkYzViMjkxZjMwM2M5MWIxZjBlZGUwYWI1NDMyZDBhMw" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-gallery-10.jpg?context=bWFzdGVyfHJvb3R8Mzk2Njk4fGltYWdlL2pwZWd8aGUyL2gxYy8xMDU0NDg0NTY4NDc2Ni5qcGd8MjQ1MTY4NmRlM2QyOGUwMjE2ZjM2OWRmYjAyZjA2NTk0NzllOWQ1ZWQwMDVjODY1Y2ZmNTNhYzRjZjY4NWU3OQ" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-gallery-11.jpg?context=bWFzdGVyfHJvb3R8MzY0NzY5fGltYWdlL2pwZWd8aGU5L2hhMy8xMDU0NDg0NTk0NjkxMC5qcGd8ZjdjZmU0ZDA2YTZhMDlhNGY2MDAwOWU0YThlZDQwNmIxMWYwMzNiMTA1OTk1OWY3ODhjZTk2NjhlNmNiYmY1Mg" },
+			{ "imgUrl": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-gallery-12.jpg?context=bWFzdGVyfHJvb3R8MTY5MjM5fGltYWdlL2pwZWd8aGI2L2hlZS8xMDU0NDg0NjUzNjczNC5qcGd8NGI2YzA3ZjE0NDRkZmQyMTY2NTNkMmYxODkxZDEyODAyMzA2YzQ1YjllMTg4NGFkMDgwM2Y3NjhhNTM5Mzg4Mw" }
+        ],
+        "features": {
+            "title": "المزايا",
+            "content": [{
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-feature-1.jpg?context=bWFzdGVyfHJvb3R8MTQzMDEwfGltYWdlL2pwZWd8aDYwL2gwYS8xMDU2NzQ1NzI0MzE2Ni5qcGd8YjU0NTliMmU3NzM1NTEwMTYxMjU3OGExMTU3NDJmZjIwMWQyN2E0ZGE4ZThiNzk0YThiZjdlYmJmNTZhNzkwNw&w=1920",
+                    "heading": "استمتع بالقوة والسرعة عند التنقل",
+                    "description": "يمنحك جهاز Yoga S740 ومعالجة Intel® Core™ من الجيل التاسع أداءً يشبه جهاز سطح المكتب في جهاز واحد أنيق وخفيف الوزن. تمتع بتجربة المهام المتعددة بشكل أسرع بالإضافة إلى تحرير أسرع للفيديو والصور بفضل تقنية توربو التي تصل إلى 5 جيجاهرتز ومعالجات ثمانية النواة وضبط ديناميكي يضبط الأداء تلقائيًا وفقًا لاحتياجاتك.",
+                    "notes": null
+                },
+                {
+                    "picture":null,
+                    "heading": "لن تغادر المنزل بدونه",
+                    "description": "يجمع جهاز Yoga S740 بين الأناقة وميزات الجوهر مع سهولة الحمل، حيث يتميز بألومنيوم مصقول بالرمل وتفاصيل مدروسة مثل لوحة المفاتيح الرقمية ولوحة المفاتيح ذات الألوان المتطابقة. متوفر باللون الرمادي الحديدي.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-feature-2.jpg?context=bWFzdGVyfHJvb3R8NDU1NTI1fGltYWdlL2pwZWd8aGMxL2hjYS8xMDU0NDg0MTkxNjQ0Ni5qcGd8YzFjNWMwYjBhMjRmMzYwMGJiMWM3NjI4ZTViNTQ4MGEwODM1ZGEzYzBkNjIyYWFkMTM5MTQ0NmJjODAyNTdkMQ&w=1920",
+                    "heading": "الشاحن الفائق الجديد",
+                    "description": "صُمِّمت أجهزة الكمبيوتر المحمولة GeForce® GTX 1650 بأداء بطاقات رسومات غير مسبوق لهيكل NVIDIA Turing™ الحائز على جوائز وذلك من أجل تحسين أداء ألعابك المفضلة وتسريع إبداعك.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": "يعمل طوال النهار والليل",
+                    "description": "يمكن تشغيل جهاز Yoga S740 لمدة تصل إلى 14 ساعة بشحنة واحدة، لذا فإن هذا الجهاز سيساعدك في ورشة العمل طوال اليوم أو سيكون كجهاز التلفزيون المفضل لديك. وعندما تنفد البطارية، فإن ساعة واحدة فقط من الشحن ستعيدها إلى 80% من سعتها.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-feature-3.jpg?context=bWFzdGVyfHJvb3R8MTkyMTg5fGltYWdlL2pwZWd8aDcwL2gyZi8xMDU2NzQ1NzUzODA3OC5qcGd8NGFhZTBlMDk2Y2RlOGIzZmI3YzMxOWVkYjMxMTNiMzdiMWJmZjcwYzJhZTM0NzBlNGM0NTc2MmViNzg5ZDVlOA&w=1920",
+                    "heading": "تشتت أقل، ومزيد من التركيز",
+                    "description": "توفر شاشة FHD التي يبلغ مقاسها 15.6 بوصة نطاقًا واسعًا من الألوان وتعرض كل شيء بتفاصيل حادة وواضحة. فبالإضافة إلى العرض بزاوية واسعة، وتقنية HDR للحصول على تباين أفضل، و500 شمعة من السطوع اللامع، يتم تحسين تجربتك المرئية أيضًا من خلال الحواف الرفيعة حول الشاشة، مما يخلق عرضًا بلا حوافٍ تقريبًا.",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": "صوت يؤثر فيك حقًا",
+                    "description": "يعمل نظام مكبرات الصوت Dolby Atmos® المُحسَّن بالصوت المحيطي وتقنية المحاكاة الافتراضية للارتفاع في جهاز Yoga S740 على توفير جو صوتي ثلاثي الأبعاد غير عادي. فهو الجهاز الذي يضعك في قلب الحدث، بغض النظر عن المكان الذي ستذهب إليه خلال اليوم.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-feature-4.jpg?context=bWFzdGVyfHJvb3R8MjA4Mjg1fGltYWdlL2pwZWd8aDViL2g1Yi8xMDU0NjU4MTcwMDYzOC5qcGd8MzJmYjg3MDYxYTA3NTZmZTI3NzRiOTIzMWNmZmZkYjM5NDc4NDViNzkxYjJiZTYwNGZmOGY3YmU3ZmY2NDRiZA&w=1920",
+                    "heading": "هل تحتاج إلى شيء؟ فقط اطلب ذلك",
+                    "description": "وبفضل عمر البطارية الذي يصل إلى 12 ساعة، سيكون لديك متسع من الوقت للتباهي بذلك. هل تحتاج إلى دفعة شحن إضافية؟ يمكن لساعة من التوصيل بالكهرباء أن تشحن بطارية الشحن السريع إلى 80%.*",
+                    "notes": null
+                },
+                {
+                    "picture": null,
+                    "heading": null,
+                    "description": "انقر هنا، للحصول على مزيد من المعلومات حول <a href='https://support.lenovo.com/sg/en/solutions/ht506718' target='_blank'>Alexa</a>.",
+                    "notes":null
+                },
+                {
+                    "picture": null,
+                    "heading": "سرعة أكبر، ومرونة أكبر",
+                    "description": "يأتي جهاز Yoga S740 مزودًا بمنفذي Thunderbolt ™ 3. لذلك فإن هذان المنفذان يمنحانك الطريقة الأسرع والأكثر مرونة لتوصيل الشاشات ومحطات الإرساء والتخزين - ويمكن استخدامهما كمصدر للطاقة أيضًا، كما أنهما أسرع من USB 3.0 بما يصل إلى 8 مرات. كما يمكنك أيضًا البث والتصفح أثناء التنقل دون أي تأخير، وذلك بفضل اتصال WiFi 6 الأسرع من أي وقت مضى وزمن الانتقال الذي يعتبر أقل بنسبة 75% من AC WiFi القياسي.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-laptops-yoga-s740-15-feature-5.jpg?context=bWFzdGVyfHJvb3R8MjAwOTIzfGltYWdlL2pwZWd8aDU2L2gyOS8xMDU0NjU4MTc2NjE3NC5qcGd8NjA3YWFkYjgyMzcxOGEyZmQxZTUxNzRhZjllN2NmNjYwMTZlZGNjYTVkODU0NGUzNDQ2ZjRiNmNjMmMwOTQzZQ&w=1920",
+                    "heading": "دوِّن أفكارك",
+                    "description": "يمكنك الآن تدوين أفكارك لحظة تجليها باستخدام قلم رقمي مُخزَّن بالجهاز. يتميز جهاز Yoga C940 بحجيرة لوضع القلم فيها داخل الهيكل، وذلك لضمان أنك لن تفقد أي فكرة مرة أخرى.",
+                    "notes": null
+                },
+                {
+                    "picture": "https://www.lenovo.com/medias/lenovo-yoga-c940-15-8.jpg?context=bWFzdGVyfHJvb3R8MjkxODM2fGltYWdlL2pwZWd8aDAwL2gwOC8xMDYxMjI5NzUzMTQyMi5qcGd8MjA0YmQ4NzhjODk1MTAxNTk3ZWExNzUyNjI3MTg3NjgyMmFmY2VlMTBhYWM4MzM5MjEwNmQ4OTM2ZGMxMTUxYw&w=1920",
+                    "heading": "الخروج من العالم الخارجي",
+                    "description": "تأتي كاميرا الويب الخاصة بجهاز Yoga S740 مزودة بخاصية غالق الخصوصية TrueBlock. لذلك عندما تنتهي من محادثة الفيديو، ما عليك سوى تحريك الغالق الفعلي لإغلاقه لتنعم بمزيد من راحة البال.",
+                    "notes": null
+                }
+            ],
+            "notes": null
+        },
+        "techSpecs": {
+            "title": "المواصفات الفنية",
+            "table": [{
+                    "key": "المعالج",
+                    "value": {
+                        "content": "يصل إلى الجيل التاسع من معالجات Intel® Core™ i9",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "نظام التشغيل",
+                    "value": {
+                        "content": "Windows 10 Home",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "بطاقة الرسومات",
+                    "value": {
+                        "content": "NVIDIA® GeForce™ GTX 1650",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الشاشة",
+                    "value": {
+                        "content": "15.6 بوصة بدقة FHD (1920 x 1080) VESA400 HDR، IPS، 500 شمعة لكل متر مربع، RGB 100% مع Dolby Vision‡",
+                        "ul": 	[	{ "li":"15.6 بوصة بدقة UHD (3840  x2160) IPS HDR، 500 شمعة لكل متر مربع مع Dolby Vision‡ (غير متوفر فقط)"},
+									{ "li":"15.6 بوصة بدقة UHD (3840  x2160) IPS HDR، 500 شمعة لكل متر مربع مع Dolby Vision‡ (غير متوفر فقط)"}
+								],
+                        "notes": {"note":"†من المتوقع أن يتوفر بنهاية عام 2019."}
+                    }
+                },
+                {
+                    "key": "الذاكرة",
+                    "value": {
+                        "content": "تصل إلى 16 جيجابايت DDR4 + 8 جيجا بايت DIMM",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "البطارية",
+                    "value": {
+                        "content": "تصل إلى 14 ساعة*، بفضل الشحن السريع**",
+                        "ul": null,
+                        "notes":[
+								{"note":"*بناءً على الاختبار باستخدام MobileMark 2014. يختلف عمر البطارية بشكل كبير حسب الإعدادات، والاستخدام، وعوامل أخرى."},
+								{"note":"**الشحن السريع: اشحن لمدة ساعة في وضع الاستعداد أو أثناء إيقاف التشغيل، لتشحن بذلك البطارية إلى 80% وذلك بناءً على نتائج الاختبار باستخدام الاختبار المعياري لقياس عمر البطارية MobileMark 2014 ver. 1.5. <a href='https://bapco.com/products/mobilemark-2014/' target='_blank'>انقر هنا للحصول على تفاصيل إضافية حول معيار الاختبار</a>."}
+						]
+                    }
+                },
+                {
+                    "key": "التخزين",
+                    "value": {
+                        "content": "يصل إلى 1 تيرابايت PCIe SSD",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الصوت",
+                    "value": {
+                        "content": null,
+                        "ul": 	[	{"li":"نظام مكبرات الصوت Dolby Atmos™"},
+									{"li":"ميكروفونات بعيدة المجال"}
+								],
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الأبعاد (الارتفاع × العرض × العمق)",
+                    "value": {
+                        "content": "357.12 مم × 243.33 مم × الحافة الأمامية 17.7 مم والحافة السفلية 19.95 مم / 14.1 بوصة × 9.6 بوصة × الحافة الأمامية 0.7 بوصة × الحافة الخلفية 0.8 بوصة",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "الوزن",
+                    "value": {
+                        "content": "يبدأ من 1.9 كجم / 4.18 أرطال",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "اللون",
+                    "value": {
+                        "content": "الرمادي الحديدي",
+                        "ul": null,
+                        "notes": null
+                    }
+                },
+                {
+                    "key": "إمكانية الاتصال",
+                    "value": {
+                        "content": null,
+                        "ul": [{ "li": "Intel® Wireless-AC 2x2" },
+                            { "li": "WiFi 5 (802.11 ac 2x2) " },
+							{ "li": "WiFi 6 (802.11 ax 2x2)§"}
+                        ],
+                        "notes": [{"note": "§من المتوقع أن يتوفر بنهاية عام 2019."}]
+                    }
+                },
+                {
+                    "key": "المساعد الرقمي",
+                    "value": {
+                        "content": null,
+                        "ul": [{ "li": "Cortana" },
+                            { "li": "Alexa†" }
+                        
+						],
+                        "notes": {"note": "†من المتوقع أن يتوفر بنهاية عام 2019. في أسواق محددة فقط."}
+                    }
+                },
+                {
+                    "key": "اللون",
+                    "value": {
+                        "content": null,
+                        "ul": 	[ 	{"li": "منفذا USB-C (USB 3.1 من الجيل الأول + منفذ جهاز العرض + Thunderbolt™ 3)"},
+									{"li": "منفذ USB 3.1 (الجيل الأول، للشحن دائمًا)"},
+									{"li": "منفذ كومبو لسماعة الرأس/ الميكروفون"},
+									{"li": "منفذ قارئ بطاقات micro 3 في 1 (SD، SDXC، SDHC)"},
+									{"li": "منفذ إدخال الطاقة"}
+								],
+                        "notes": null
+                    }
+                },
+				{
+                    "key": "لوحة المفاتيح",
+                    "value": {
+                        "content": "لوحة مفاتيح ذات إضاءة خلفية",
+                        "ul": 	null,
+                        "notes": null
+                    }
+                }
+            ],
+            "notes": [
+                { "note": "قد تختلف المواصفات حسب المنطقة." }
+            ],
+            "ports": {
+                "title": "المنافذ/الفتحات",
+                "picture": "https://www.lenovo.com/medias/lenovo-laptop-yoga-s740-ports.jpg?context=bWFzdGVyfHJvb3R8ODc4NDB8aW1hZ2UvanBlZ3xoOTIvaDlhLzEwNTg4MTU2NjkwNDYyLmpwZ3xkMTUyMjVlOWYwZjFlNjg4ZmYzZDc4OWQ2ZTQ4NDZkYjk2Y2UwNjI4YzhmNDlhYjdiMjZlYTE1ZTg5ZDJkOGU",
+                "points": [
+                    { "point": "1. منفذ إدخال الطاقة" },
+                    { "point": "2. منفذ كومبو لسماعة الرأس/ الميكروفون" },
+                    { "point": "3. منفذ قارئ بطاقات micro 3 في 1 (SD، SDXC، SDHC)" },
+                    { "point": "4. منفذا USB-C (USB 3.1 من الجيل الأول + منفذ جهاز العرض + Thunderbolt™ 3)" },
+                    { "point": "5. منفذ USB 3.1 (الجيل الأول، للشحن دائمًا)" }
+                
+                ]
+            }
+        },
+        "services": null
+    }
+]
